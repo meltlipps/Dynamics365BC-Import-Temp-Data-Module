@@ -1,7 +1,6 @@
 table 50106 "Sales H.Invtmp SalesForce"
 {
     DataClassification = CustomerContent;
-    Caption = 'Sales H.Inv tmp Sales Force';
     fields
     {
         field(1; "Entry No."; Integer)
