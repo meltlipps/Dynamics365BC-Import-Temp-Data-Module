@@ -1,4 +1,4 @@
-table 50109 "HSales L.Invtmp SalesForce"
+table 50105 "HSales L.Invtmp SalesForce"
 {
     DataClassification = ToBeClassified;
 
