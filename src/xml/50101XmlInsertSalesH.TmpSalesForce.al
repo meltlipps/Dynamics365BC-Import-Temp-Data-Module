@@ -1,4 +1,4 @@
-xmlport 50103 "XmlInsertSalesH.TmpSalesForce"
+xmlport 50101 "XmlInsertSalesH.TmpSalesForce"
 {
     Caption = 'Import Sales Invoice H. Temp - Sales force';
     Direction = Import;
