@@ -1,4 +1,4 @@
-table 50108 "Sales L.Invtmp SalesForce"
+table 50104 "Sales L.Invtmp SalesForce"
 {
     DataClassification = CustomerContent;
 
