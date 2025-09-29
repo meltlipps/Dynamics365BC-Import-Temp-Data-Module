@@ -1,6 +1,6 @@
 table 50105 "HSales L.Invtmp SalesForce"
 {
-    DataClassification = ToBeClassified;
+    DataClassification = CustomerContent;
 
     fields
     {
