@@ -1,4 +1,4 @@
-page 50109 "HSales L.Invtmp SalesForce"
+page 50105 "HSales L.Invtmp SalesForce"
 {
     PageType = List;
     ApplicationArea = All;
